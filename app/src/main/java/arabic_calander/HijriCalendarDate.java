@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.shofik.hijricalendar;
+package arabic_calander;
 
 /*
 Umm Al-Qura Islamic Calendar

@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.shofik.hijri.caldroid;
+package arabic_calander;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

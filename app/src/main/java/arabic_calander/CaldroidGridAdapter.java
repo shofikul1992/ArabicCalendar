@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.shofik.hijri.caldroid;
+package arabic_calander;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -16,7 +16,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 
-import ac.ms.com.ac.com.shofik.hijricalendar.HijriCalendarDate;
 import ac.ms.com.arabiccalendar.R;
 import hirondelle.date4j.DateTime;
 

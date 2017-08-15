@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.shofik.hijri.caldroid;
+package arabic_calander;
 
 import android.content.Context;
 import android.util.AttributeSet;

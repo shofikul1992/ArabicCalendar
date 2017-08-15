@@ -1,4 +1,4 @@
-package ac.ms.com.ac;
+package arabic_calander;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -12,8 +12,6 @@ import android.widget.TextView;
 
 import java.util.HashMap;
 
-import ac.ms.com.ac.com.shofik.hijri.caldroid.CaldroidFragment;
-import ac.ms.com.ac.com.shofik.hijri.caldroid.CaldroidGridAdapter;
 import ac.ms.com.arabiccalendar.R;
 import hirondelle.date4j.DateTime;
 

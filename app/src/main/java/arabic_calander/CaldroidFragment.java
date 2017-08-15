@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.shofik.hijri.caldroid;
+package arabic_calander;
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
@@ -35,9 +35,6 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 import ac.ms.com.arabiccalendar.R;
-import ac.ms.com.ac.com.antonyt.viewpager.InfinitePagerAdapter;
-import ac.ms.com.ac.com.antonyt.viewpager.InfiniteViewPager;
-import ac.ms.com.ac.com.shofik.hijricalendar.HijriCalendarDate;
 import hirondelle.date4j.DateTime;
 
 /**

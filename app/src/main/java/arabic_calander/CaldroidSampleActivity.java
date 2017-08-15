@@ -1,4 +1,4 @@
-package ac.ms.com.ac;
+package arabic_calander;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -18,8 +18,6 @@ import java.util.Calendar;
 import java.util.Date;
 
 import ac.ms.com.arabiccalendar.R;
-import ac.ms.com.ac.com.shofik.hijri.caldroid.CaldroidFragment;
-import ac.ms.com.ac.com.shofik.hijri.caldroid.CaldroidListener;
 
 @SuppressLint("SimpleDateFormat")
 public class CaldroidSampleActivity extends FragmentActivity {

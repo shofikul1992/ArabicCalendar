@@ -60,7 +60,7 @@
         android:numColumns="7"
         android:stretchMode="columnWidth"></GridView>
 
-        <ac.ms.com.ac.com.antonyt.viewpager.InfiniteViewPager
+        <arabic_calander.InfiniteViewPager
         android:id="@+id/months_infinite_pager"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

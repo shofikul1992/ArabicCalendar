@@ -1,4 +1,4 @@
-package ac.ms.com.ac.com.antonyt.viewpager;
+package arabic_calander;
 
 import android.os.Parcelable;
 import android.support.v4.view.PagerAdapter;
